@@ -25,6 +25,9 @@ Q4 Worksheet:
 
 
 Resources:
+
 ChatGPT (https://chatgpt.com/)
+
 Thay Chansy (https://github.com/thaychansy/vba/tree/main)
+
 Stack Overflow (https://stackoverflow.com/questions/52012092/vba-loop-of-multiple-sheets-in-a-worksheet/52012335#52012335)
