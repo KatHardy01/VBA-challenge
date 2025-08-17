@@ -1,5 +1,5 @@
-# VBA-challenge
-Instructions:
+# Module 2 - VBA-challenge
+## Instructions:
 
 Create a script that loops through all the stocks for each quarter and outputs the following information:
 - The ticker symbol
@@ -23,8 +23,9 @@ Q4 Worksheet:
 
 ![image](https://github.com/user-attachments/assets/01146db0-a196-4e32-9993-c4cbf3e41130)
 
+NOTE: Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
-Resources:
+## Resources:
 
 ChatGPT (https://chatgpt.com/)
 
